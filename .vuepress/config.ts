@@ -48,6 +48,10 @@ export default defineUserConfig({
       {
         "path": "/home-bg/5.jpg",
         "mask": "rgb(251, 170, 152, .2)"
+      },
+      {
+        "path": "/home-bg/6.jpg",
+        "mask": "rgb(251, 170, 152, .2)"
       }
     ],
 
